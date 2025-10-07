@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gerenciador Pessoal de Metas e Hábitos",
+  "description": "Uma aplicação web para ajudar usuários a gerenciar suas metas e hábitos pessoais, construída com React e TypeScript, conectando-se a um backend FastAPI.",
+  "requestFramePermissions": []
+}
